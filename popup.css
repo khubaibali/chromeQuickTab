@@ -1,0 +1,12 @@
+*{
+    font-size:small;
+    box-sizing: border-box;
+}
+
+.tab:hover{
+    background-color: #5f63689f;
+    cursor: pointer;
+}
+.tab{
+    border-radius: 5%;
+}
